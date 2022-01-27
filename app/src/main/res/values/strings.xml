@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TableLayout_Test</string>
+    <string name="app_name" translatable="false">Soundboard Clone</string>
+    <string name="text1">Это пример текста</string>
 </resources>
